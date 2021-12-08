@@ -1,11 +1,9 @@
 import javax.swing.JOptionPane;
-import java.util.Scanner;
 
 public class ConversorDeTemperatura {
 
     public static void main(String[] args) {
 
-        Scanner input = new Scanner(System.in);
 
         JOptionPane.showMessageDialog(null, "Porgrama de conversão de temperaturas.");
 
